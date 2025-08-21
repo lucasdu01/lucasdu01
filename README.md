@@ -16,8 +16,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRocha&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRocha&layout=compact&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdu01&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdu01&layout=compact&theme=dracula)
 
 ---
 
